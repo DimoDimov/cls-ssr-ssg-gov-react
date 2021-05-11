@@ -17,9 +17,9 @@ We will confirm that these rendered pages will not loose the visual and function
 
 1. On the initial page we have 3 links for each of the renderings:
 
-Client-side rendering example
-Server-side rendering example
-Static-generated site example
+- Client-side rendering example
+- Server-side rendering example
+- Static-generated site example
 
 2. We are opening each of the pages in normal browser with enabled JavaScript
 
