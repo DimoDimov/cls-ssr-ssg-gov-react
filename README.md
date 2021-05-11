@@ -33,6 +33,8 @@ When we open the pages again we see that the pages are not looking as expected
 
 for the Client-Side rendering we will not be able to fetch the data successfully. The React Gov button will loose its look and feel
 
+The serverside rendering and the statically generated pages will be able to deal with the fetching of the data but will fail into rendering the GovUK React button with the expecte styling.
+
 
 Start the project by running:
 
