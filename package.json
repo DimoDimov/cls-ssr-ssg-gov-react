@@ -1,0 +1,25 @@
+{
+  "name": "gov-react-nextjs",
+  "version": "1.0.0",
+  "private": false,
+  "author": "",
+  "scripts": {
+    "dev": "next dev",
+    "dev:debug": "NODE_OPTIONS='--inspect' next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "govuk-frontend": "^3.11.0",
+    "govuk-react": "^0.7.2",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "9.3.5",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-markdown": "^6.0.2",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "styled-components": "^5.3.0"
+  }
+}
